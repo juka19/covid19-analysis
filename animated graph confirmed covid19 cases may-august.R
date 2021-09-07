@@ -3,7 +3,7 @@
 library(covid19.analytics)
 library(tidyverse)
 library(lubridate)
-library(ggpot2)
+library(ggplot2)
 library(gganimate)
 
 # dowloading updated covid19 data
